@@ -3,7 +3,7 @@ module.exports = {
     title: `Szelest Ciszy`,
     description: `Strona dla Kasi`,
     author: `szlestciszy`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://szelestciszy.pl`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
